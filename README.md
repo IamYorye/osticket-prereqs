@@ -25,10 +25,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/yNkyRYy" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/yNkyRYy" height="80%" width="80%" alt="Azure"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to you Azure Portal and type in virtual machines to navigate to that section. Afterwards, create a virtual machine with a new resource group, choose a server that's close to you, and choose windows 10 pro version. You will be prompted to create a local username and local password, save these because this is how we will connect to our virtual machine with remote desktop conection.
 </p>
 <br />
 
