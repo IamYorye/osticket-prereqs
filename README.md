@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/a/yNkyRYy" height="80%" width="80%" alt="Azure"/>
+<img src="https://i.imgur.com/hi6gtGE.png" height="80%" width="80%" alt="Azure"/>
 </p>
 <p>
 Navigate to you Azure Portal and type in virtual machines to navigate to that section. Afterwards, create a virtual machine with a new resource group, choose a server that's close to you, and choose windows 10 pro version. You will be prompted to create a local username and local password, save these because this is how we will connect to our virtual machine with remote desktop conection.
